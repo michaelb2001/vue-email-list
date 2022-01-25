@@ -1,5 +1,23 @@
 *{
-    margin : 0%!important;
+    margin : 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#app{
+    height: 100%;
+}
+
+ul{
+    list-style-type: none;
     padding: 0%!important;
-    box-sizing: border-box!important;
+}
+
+ul li{
+    text-decoration: none;
+}
+
+.container{
+    border-radius: 15px;
+    min-height: 90vh;
 }
